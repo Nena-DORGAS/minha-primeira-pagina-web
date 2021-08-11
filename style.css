@@ -1,0 +1,27 @@
+body {
+    display: flexbox;
+    background-color: blueviolet;
+}
+
+h1#titulo{
+
+    color: darkblue;
+}
+
+ul.lista{
+
+    background-color: darkgoldenrod;
+    width: 30%;
+    margin: 2.5px;
+    padding: 2%;
+    height: 20%;
+    border-radius: 6px;
+}
+
+p, a{
+
+    color:white;
+    font-weight: bolder;
+    text-decoration: none;
+
+}
